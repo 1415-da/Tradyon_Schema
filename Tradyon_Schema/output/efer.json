@@ -1,0 +1,18 @@
+{
+  "companyName": "efer",
+  "contactPerson": "wferf",
+  "exportDate": "2025-11-14T12:11:52.424Z",
+  "productCount": 1,
+  "products": {
+    "Long Pepper": {
+      "categories": {
+        "certifications": [
+          "cerc"
+        ],
+        "asta_color_value": []
+      },
+      "categoryCount": 2,
+      "totalSelectedValues": 1
+    }
+  }
+}

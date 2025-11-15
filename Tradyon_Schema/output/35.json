@@ -1,0 +1,18 @@
+{
+  "companyName": "35",
+  "contactPerson": "ef",
+  "exportDate": "2025-11-14T12:06:49.941Z",
+  "productCount": 1,
+  "products": {
+    "Clove Seeds": {
+      "categories": {
+        "physical_form": [
+          "Whole",
+          "Unground"
+        ]
+      },
+      "categoryCount": 1,
+      "totalSelectedValues": 2
+    }
+  }
+}

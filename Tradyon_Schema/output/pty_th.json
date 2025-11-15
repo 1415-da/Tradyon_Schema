@@ -1,0 +1,27 @@
+{
+  "companyName": "pty th",
+  "contactPerson": "BInod",
+  "exportDate": "2025-11-14T12:27:21.016Z",
+  "productCount": 2,
+  "products": {
+    "Clove Seeds": {
+      "categories": {
+        "physical_form": [
+          "Whole",
+          "Unground"
+        ]
+      },
+      "categoryCount": 1,
+      "totalSelectedValues": 2
+    },
+    "Pink Pepper": {
+      "categories": {
+        "origin_country": [
+          "Brazil"
+        ]
+      },
+      "categoryCount": 1,
+      "totalSelectedValues": 1
+    }
+  }
+}

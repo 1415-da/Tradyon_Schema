@@ -1,0 +1,23 @@
+{
+  "companyName": "robust",
+  "contactPerson": "Binod",
+  "exportDate": "2025-11-14T12:21:21.496Z",
+  "productCount": 2,
+  "products": {
+    "Clove Husks": {
+      "categories": {
+        "product_type": [
+          "Clove Bark",
+          "Clove Shell"
+        ]
+      },
+      "categoryCount": 1,
+      "totalSelectedValues": 2
+    },
+    "0904 Pinhead Pepper": {
+      "categories": {},
+      "categoryCount": 0,
+      "totalSelectedValues": 0
+    }
+  }
+}

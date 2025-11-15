@@ -1,0 +1,17 @@
+{
+  "companyName": "dcr",
+  "contactPerson": "dcer",
+  "exportDate": "2025-11-14T12:13:09.071Z",
+  "productCount": 1,
+  "products": {
+    "Cubeb Pepper": {
+      "categories": {
+        "variety": [
+          "Litsea Cubeba"
+        ]
+      },
+      "categoryCount": 1,
+      "totalSelectedValues": 1
+    }
+  }
+}

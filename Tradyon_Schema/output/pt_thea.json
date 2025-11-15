@@ -1,0 +1,17 @@
+{
+  "companyName": "pt thea",
+  "contactPerson": "Binod",
+  "exportDate": "2025-11-14T12:09:33.177Z",
+  "productCount": 1,
+  "products": {
+    "Clove Husks": {
+      "categories": {
+        "physical_form": [
+          "Unground"
+        ]
+      },
+      "categoryCount": 1,
+      "totalSelectedValues": 1
+    }
+  }
+}
